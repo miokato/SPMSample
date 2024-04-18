@@ -33,6 +33,7 @@ public struct SampleButton: View {
             )
         })
     }
+    public init() {}
 }
 
 #Preview {
