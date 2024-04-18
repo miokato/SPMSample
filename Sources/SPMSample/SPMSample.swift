@@ -4,9 +4,9 @@
 import UIKit    
 
 public struct SampleStruct {
-    var value: Int = 0
+    public var value: Int = 0
     
-    func sampleMethod() {
+    public func sampleMethod() {
         print("Hello SPM")
     }
 }
